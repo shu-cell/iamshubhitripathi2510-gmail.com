@@ -1,0 +1,23 @@
+body{
+    background-color: powderblue;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    width: 5%;
+    border-width: 7px;
+    border-color: grey ;
+}
+h1{
+    color: #66BFBF;
+    text-decoration: underline;
+    text-align: center;
+}
+h3{
+    color:#66BFBF;
+    text-align: center;
+    font-size: x-large ;
+}
+.psit{
+    background-color: red;
+}
